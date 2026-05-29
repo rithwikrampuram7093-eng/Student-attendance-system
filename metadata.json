@@ -1,0 +1,6 @@
+{
+  "name": "Student Attendance System",
+  "description": "A student-designed interactive system for teachers to mark daily attendance and admins to analyze student regularity and absenteeism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
